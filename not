@@ -1,2 +1,31 @@
-Deneme 
-111
+
+<!doctype html>
+
+<head>
+  <title>Fuck RealisticLife</title>
+  <style>
+    body {background: rgb(0, 0, 0) transparent;}
+    p {font-family: bahnschrift; color: rgb(167, 0, 11);font-weight: bold;text-align: center; margin-top: 5px;font-size: 19.5px;text-decoration: underline;}
+    div {font-family: bahnschrift; color: rgb(167, 0, 11);font-weight: 600;;text-align: left; margin-top: 5px;font-size: 15px;}
+  </style>
+</head>
+
+<body>
+  <p>AutisticLife Patch Notes:</p>
+  <div>
+    <h>[<span style="color: blue">+</span>] V3 Launcher cracked</p>
+    <h></p>
+    <h>[<span style="color: blue">+</span>] Added patch notes</p>
+    <h></p>
+    <h>[<span style="color: blue">+</span>] Made BarBaroNN cry :(</p>
+    <h></p>
+    <h>[<span style="color: blue">+</span>] Ricko Lick Balls</p>
+    <h></p>
+    <h>[<span style="color: blue">+</span>] DL is the best</p>
+    <h></p>
+    <h>[<span style="color: blue">+</span>] IDK Put your shit here 2</p>
+    <h></p>
+    <h>[<span style="color: blue">+</span>] IDK Put your shit here 3</p>
+  </div>
+</body>
+</html>
